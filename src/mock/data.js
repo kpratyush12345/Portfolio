@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: ' I am Computer Science and Engineering Student at SJB Institute of Technology , Bangalore. I am fascinated about programming and exploring new CS fields. I enjoy solving problems with use of programming. I am always energetic and eager to learn new skills. I have good leadership skills as well as I can work as a team member. I am currently looking for internship and job opportunities that match my skills.',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://drive.google.com/file/d/1CozxyxV5KLvdSb8anI0Quj6f9oWzPUYq/view', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1CozxyxV5KLvdSb8anI0Quj6f9oWzPUYq/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
