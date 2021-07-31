@@ -28,20 +28,20 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'tindog.png',
-    title: 'tindog',
-    info: 'Meet new and Interesting Dogs nearby.',
-    info2: 'A fully Responsive Site Made Using pure HTML , CSS and Bootstrap',
-    url: 'https://kpratyush12345.github.io/cv/tindog/index.html',
+    img: 'tour.png',
+    title: 'DJP Tourism',
+    info: 'Contains over 15 Cities Data with 360 deg videos and Google Maps of it.',
+    info2: 'A fully Responsive Site Made Using ReactJs',
+    url: 'https://djp-tourism-3c36d.web.app/',
     repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'drumkit.png',
-    title: 'Drum Kit',
-    info: 'Tap on the button and enjoy the Melody . When you tap on Keyboard also it plays the sound.',
-    info2: 'Made Using HTML , CSS , Bootstrap and jQuery',
-    url: 'https://kpratyush12345.github.io/cv/drumkit/index.html',
+    img: 'game.png',
+    title: 'The BreakOut Game',
+    info: 'You need to break all the bricks using a ball, you need to prevent the ball from touching the bottom surface using a paddle.',
+    info2: 'Made Using JavaScript',
+    url: 'https://kpratyush12345.github.io/Brick-Game/',
     repo: '', 
   },
   {
@@ -55,11 +55,11 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'notes.png',
-    title: 'Notes App',
-    info: 'It Keeps Your Important Notes . Its just a Frontend Site',
-    info2: 'Made Using React',
-    url: 'https://ed3cv.csb.app/',
+    img: 'mov.png',
+    title: 'Movieflix',
+    info: 'Used a MovieDB API that will be update the Movie Database whenever a new Movie releases.',
+    info2: 'Made Using JavaScript and API',
+    url: 'https://kpratyush12345.github.io/Movie-using-JS/',
     repo: '',
   }
 ];
