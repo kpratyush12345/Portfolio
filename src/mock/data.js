@@ -28,6 +28,15 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    img: 'su.png',
+    title: 'Settled Up',
+    info: 'A Splitwise Cashflow Minimization Website',
+    info2: 'Made using JavaScript and Binary Heap Data Structure',
+    url: 'https://settledup.netlify.app/',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'tour.png',
     title: 'DJP Tourism',
     info: 'Contains over 15 Cities Data with 360 deg videos and Google Maps of it.',
