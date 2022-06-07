@@ -87,7 +87,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'linkedin',
-      url: 'https://www.linkedin.com/in/pratyush-kumar-b5b968189/',
+      url: 'https://www.linkedin.com/in/kpratyush12/',
     },
     {
       id: nanoid(),
